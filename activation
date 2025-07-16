@@ -26,12 +26,5 @@
         "password": "abc123",
         "expirydate": "31-07-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "17dfe6f4cfe3cb03",
-        "username": "tksmodmalaysia2016",
-        "password": "abc123",
-        "expirydate": "31-07-2025",
-        "Allowoffline": false
     }
 ]
