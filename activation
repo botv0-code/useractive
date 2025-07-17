@@ -33,5 +33,12 @@
         "password": "abc123",
         "expirydate": "31-07-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "28dfe48592fe3cb03",
+        "username": "tester",
+        "password": "oke",
+        "expirydate": "31-07-2025",
+        "Allowoffline": false
     }
 ]
